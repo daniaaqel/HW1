@@ -36,7 +36,7 @@
     <delete dir="${dist}"/>
   </target>
 	<path id="NecessaryLibraries">
-	        <pathelement location="C:\Users\hp\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar/>
+	        <pathelement location="C:\Users\hp\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar"/>
 	        <!--matcher-->
 	        <pathelement location="C:\Users\hp\.p2\pool\plugins\org.hamcrest.core_1.3.0.v201303031735.jar"/>
 	        <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
